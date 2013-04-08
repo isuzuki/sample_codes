@@ -4,8 +4,6 @@
 # 元ソース http://lupus.is.kochi-u.ac.jp/shiota/jsii07/L06c.html
 # ネイピア数 e = 1 + 1/1! + 1/2! + 1/3! + 1/4! + ...
 
-import math
-
 # 100桁分計算
 p = 10 ** 100
 q = 10 ** 10
