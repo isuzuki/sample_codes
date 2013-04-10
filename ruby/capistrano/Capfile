@@ -1,0 +1,7 @@
+load 'deploy'
+Dir['vendor/plugins/*/recipes/*.rb'].each { |plugin| load(plugin) }
+
+require 'capistrano/ext/multistage'
+require 'capistrano_colors'
+
+load 'config/deploy' # remove this line to skip loading any of the default tasks
