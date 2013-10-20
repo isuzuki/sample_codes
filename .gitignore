@@ -1,0 +1,11 @@
+# os file
+.DS_Store
+
+# C/C++
+*.a
+*.o
+*.so
+a.out
+
+# editor backup file
+*.swp
