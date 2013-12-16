@@ -1,11 +1,27 @@
-# os file
+### .gitignore-boilerplates/Global/OSX.gitignore
+
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# C/C++
-*.a
-*.o
-*.so
-a.out
+# Icon must ends with two \r.
+Icon
 
-# editor backup file
-*.swp
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+### .gitignore-boilerplates/Global/vim.gitignore
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
