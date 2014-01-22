@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<!-- <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script> -->
+</head>
+<body>
+	<div>
+		<input type="text" data-bind="value: title">
+		<input type="button" value="add" data-bind="event: {click: add}">
+		<ul data-bind="foreach: tasks">
+			<li data-bind="text: title"></li>
+		</ul>
+	</div>
+
+	<script src="http://knockoutjs.com/downloads/knockout-3.0.0.js"></script>
+	<script src="todo.js"></script>
+
+</body>
+</html>
