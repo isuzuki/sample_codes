@@ -1,0 +1,1 @@
+!function(){"use strict";var n={sum:function(n,u){return n+u}};console.log(n.sum(5,10))}();
