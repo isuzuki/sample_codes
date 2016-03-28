@@ -1,0 +1,30 @@
+{
+  "name": "bower sample",
+  "homepage": "",
+  "authors": [
+    "isuzuki"
+  ],
+  "description": "bower sample",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    ""
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "jquery-pjax": "^1.9.6",
+    "jquery-ui": "jquery.ui#^1.11.4",
+    "jquery-unveil": "^1.3.0",
+    "blueimp-file-upload": "jquery-file-upload#^9.12.1",
+    "underscore": "^1.8.3"
+  }
+}
