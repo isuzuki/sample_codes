@@ -1,5 +1,5 @@
 #! /usr/bin/python
-# coding: UTF-8¬
+# coding: UTF-8
 
 # 参考 http://qiita.com/howmuch/items/95efab2e61f735a150e3
 

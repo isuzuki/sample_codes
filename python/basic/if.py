@@ -1,5 +1,5 @@
 #! /usr/bin/python
-# coding: UTF-8¬
+# coding: UTF-8
 
 # 大小チェック
 num = 10
