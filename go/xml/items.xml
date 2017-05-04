@@ -1,0 +1,10 @@
+<Items>
+    <Item>
+        <Title>商品1</Title>
+        <Price>1000</Price>
+    </Item>
+    <Item>
+        <Title>商品2</Title>
+        <Price>2000</Price>
+    </Item>
+</Items>
